@@ -26,7 +26,7 @@ s3transfer==0.2.0
 scandir==1.9.0
 singledispatch==3.4.0.3
 six==1.12.0
-toml==0.10.0
+toml==0.10.2
 typing==3.6.6
 urllib3==1.24.1
 virtualenv==16.1.0
